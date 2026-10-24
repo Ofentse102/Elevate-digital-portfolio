@@ -1,0 +1,10 @@
+PORT=3000
+
+# Set these to the SMTP details from your email provider.
+SMTP_HOST=smtp.gmail.com
+SMTP_PORT=587
+SMTP_SECURE=false
+SMTP_USER=your-email@example.com
+SMTP_PASSWORD=your-smtp-app-password
+SMTP_FROM_EMAIL=your-email@example.com
+CONTACT_EMAIL=ElevateDigital@gmail.com
